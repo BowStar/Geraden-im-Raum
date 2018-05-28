@@ -9,4 +9,4 @@ Zu Beginn muss man den Variablen einen Wert zuweisen. Hierbei gilt:
 
 ![Gleichung 2](https://www.zahlen-kern.de/editor/equations/k8uw.png)
 
-anschließend überprüft das Programm, ob die Geraden echt parallel, identisch oder nicht zueinander parallel sind.
+Anschließend überprüft das Programm, ob die Geraden echt parallel, identisch oder nicht zueinander parallel sind.
